@@ -9,7 +9,7 @@ int main() {
         }else if(i==2){
             printf("\n2 p p p p p p p p");
         }else if(i==7){
-            printf("\n7 p p p p p p p p");
+            printf("\n7 P P P P P P P P");
         }else if(i==9){
             printf("\n  a b c d e f g h");
         }else{
